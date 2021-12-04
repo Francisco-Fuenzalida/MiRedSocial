@@ -1,0 +1,45 @@
+.container {
+    background-color: #505050;
+    min-height: 900px;
+}
+
+img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.nueva-publicacion {
+    text-transform: uppercase;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nueva-publicacion:hover {
+    color: black;
+}
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    width: 95%;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+.time {
+    font-size: 15px;
+    opacity: .7;
+}
+
+.publicacion{
+	font-size: 22px;
+}
